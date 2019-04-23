@@ -1,0 +1,197 @@
+2019-03-29 16:10:36 ERROR main Gift:add:60 - Something failed: null
+2019-03-29 22:53:22 ERROR main Gift:add:60 - Something failed: null
+2019-03-29 22:53:29 ERROR main Gift:add:60 - Something failed: null
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:priceGift:21 - At the moment price of Gift: 30.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 36.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 76.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 36.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 76.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:priceGift:21 - At the moment price of Gift: 30.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 76.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 36.0
+2019-03-31 19:41:12  INFO main Gift:countOfGift:39 - At the moment count of candy in the Gift: 3
+2019-03-31 19:41:12  INFO main Gift:priceGift:21 - At the moment price of Gift: 30.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 76.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 36.0
+2019-03-31 19:41:12  INFO main Gift:countOfGift:39 - At the moment count of candy in the Gift: 3
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 36.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 76.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 36.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 76.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:countOfGift:39 - At the moment count of candy in the Gift: 3
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:12  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 24.0
+2019-03-31 19:41:12  INFO main Gift:weightGift:30 - At the moment weight of Gift: 74.0
+2019-03-31 19:41:19  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 0.0
+2019-03-31 19:41:19  INFO main Gift:weightGift:30 - At the moment weight of Gift: 0.0
+2019-03-31 19:41:19  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:19  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:19  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 14.0
+2019-03-31 19:41:19  INFO main Gift:weightGift:30 - At the moment weight of Gift: 41.0
+2019-03-31 19:41:19  INFO main Gift:priceGift:21 - At the moment price of Gift: 24.0
+2019-03-31 19:41:19  INFO main Gift:weightGift:30 - At the moment weight of Gift: 61.0
+2019-03-31 19:41:19  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 16.0
+2019-03-31 19:41:19  INFO main Gift:countOfGift:39 - At the moment count of candy in the Gift: 3
+2019-03-31 19:41:19  INFO main Gift:main:23 - Gift
+{price: 24.0, weight: 61.0, volume: 16.0, count candies in the gift: 3}[
+Candy
+{name: Lolipop, price: 10.0, weight: 37.0, sugarContent: 2.0, volume: 12.0, count: 1}, 
+Candy
+{name: Jelly, price: 2.0, weight: 4.0, sugarContent: 5.0, volume: 2.0, count: 1}, 
+Candy
+{name: Chocolate, price: 12.0, weight: 20.0, sugarContent: 3.0, volume: 2.0, count: 1}]
+2019-03-31 19:41:19  INFO main Gift:priceGift:21 - At the moment price of Gift: 21.0
+2019-03-31 19:41:19  INFO main Gift:weightGift:30 - At the moment weight of Gift: 41.0
+2019-03-31 19:41:19  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:19  INFO main Gift:countOfGift:39 - At the moment count of candy in the Gift: 3
+2019-03-31 19:41:19  INFO main Gift:priceGift:21 - At the moment price of Gift: 21.0
+2019-03-31 19:41:19  INFO main Gift:weightGift:30 - At the moment weight of Gift: 41.0
+2019-03-31 19:41:19  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 12.0
+2019-03-31 19:41:19  INFO main Gift:countOfGift:39 - At the moment count of candy in the Gift: 3
+2019-03-31 19:41:19  INFO main Gift:priceGift:21 - At the moment price of Gift: 19.0
+2019-03-31 19:41:19  INFO main Gift:weightGift:30 - At the moment weight of Gift: 37.0
+2019-03-31 19:41:19  INFO main Gift:volumeGift:48 - At the moment volume of Gift: 10.0
+2019-03-31 19:41:19  INFO main Gift:countOfGift:39 - At the moment count of candy in the Gift: 2
+2019-03-31 19:44:03  INFO main Gift:main:23 - Gift
+{price: 24.0, weight: 61.0, volume: 16.0, count candies in the gift: 3}[
+Candy
+{name: Lolipop, price: 10.0, weight: 37.0, sugarContent: 2.0, volume: 12.0, count: 1}, 
+Candy
+{name: Jelly, price: 2.0, weight: 4.0, sugarContent: 5.0, volume: 2.0, count: 1}, 
+Candy
+{name: Chocolate, price: 12.0, weight: 20.0, sugarContent: 3.0, volume: 2.0, count: 1}]
+2019-03-31 19:44:45  INFO main Gift:main:23 - 
+Gift
+{price: 24.0, weight: 61.0, volume: 16.0, count candies in the gift: 3}[
+Candy
+{name: Lolipop, price: 10.0, weight: 37.0, sugarContent: 2.0, volume: 12.0, count: 1}, 
+Candy
+{name: Jelly, price: 2.0, weight: 4.0, sugarContent: 5.0, volume: 2.0, count: 1}, 
+Candy
+{name: Chocolate, price: 12.0, weight: 20.0, sugarContent: 3.0, volume: 2.0, count: 1}]
+2019-03-31 20:01:27 ERROR main Gift:add:53 - Unreal add candy A!
+2019-03-31 20:01:37 ERROR main Gift:add:53 - Unreal add candy A!
+2019-03-31 20:02:05 ERROR main Gift:add:53 - Unreal add candy A!
+2019-03-31 20:02:19 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-01 11:21:48 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-01 11:23:51 ERROR main Gift:add:56 - Something failed: null
+2019-04-01 11:23:57 ERROR main Gift:add:56 - Something failed: null
+2019-04-01 11:34:10 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
+2019-04-01 11:34:19 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
+2019-04-01 11:34:43 ERROR main Gift:add:56 - Something failed: null
+2019-04-01 11:34:43 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-01 11:34:43 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
+2019-04-01 11:41:11 ERROR main Gift:add:56 - Something failed: null
+2019-04-01 11:41:11 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-01 11:41:11 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
+2019-04-01 18:09:49 ERROR main Gift:add:56 - Something failed: null
+2019-04-01 18:09:49 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-01 18:09:49 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
+2019-04-01 18:16:19 ERROR main Gift:add:56 - Something failed: null
+2019-04-01 18:16:19 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-01 18:16:19 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
+2019-04-15 11:59:10 ERROR main Gift:add:56 - Something failed: null
+2019-04-15 11:59:10 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-15 11:59:10 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
+2019-04-21 22:46:27 ERROR main Gift:add:56 - Something failed: null
+2019-04-21 22:46:27 ERROR main Gift:add:53 - Unreal add candy A!
+2019-04-21 22:46:27 ERROR main Gift:searchBySugarContent:41 - Incorrectly specified minimum and maximum parameters!
