@@ -18,7 +18,7 @@ public class Main {
         gift1.add(type2);
         gift1.add(type3);
 
-        log.info(gift1.toString());     //hkjh ddd
+        log.info(gift1.toString());     //hkjh dddsd
         System.out.println("\n------------------------Reverse By Name----------------------------");
         reverseByName(gift1, "Lolipop", type4);
         log.info(gift1.toString());
